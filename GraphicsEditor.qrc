@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="GraphicsEditor">
+    <file alias="new">Resources/1229441.png</file>
+    <file alias="width">Resources/1172558.png</file>
+    <file alias="erase">Resources/510117.png</file>
+    <file alias="windowIcon">Resources/1210732.png</file>
+    <file alias="polygon">Resources/1101873.png</file>
+    <file alias="save">Resources/1118982.png</file>
+    <file alias="round">Resources/1143357.png</file>
+    <file alias="line">Resources/1168924.png</file>
+    <file alias="colors">Resources/1181767.png</file>
+    <file alias="ellipse">Resources/1168912.png</file>
+    <file alias="open">Resources/1230162.png</file>
+  </qresource>
+</RCC>
